@@ -11,3 +11,4 @@ It is a two-dimensional sports game that simulates table tennis. The player cont
 3. Press Run
 
 <b>Screenshot </b></br></br> 
+![pong](https://cloud.githubusercontent.com/assets/7979139/24063542/3d0d4aaa-0b86-11e7-966d-decd49f28291.png)
